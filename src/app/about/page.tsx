@@ -14,7 +14,7 @@ export default function About() {
   
         <div className="contentContainer">
           <section className="missionSection">
-            <h2 className="sectionHeading">Who We Are</h2>
+            <h2 className="sectionHeading">Our Quality</h2>
             <p className="text">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati voluptatum voluptatibus 
             magnam, impedit illum sapiente accusamus optio incidunt dolore quos inventore adipisci, iusto sed in.

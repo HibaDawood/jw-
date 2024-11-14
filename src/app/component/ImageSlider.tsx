@@ -4,11 +4,12 @@ import Image from 'next/image';
 
 const ImageSlider = () => {
   const images = [
-    '/picture/s11.jpg',
-    '/picture/s10.jpg',
-    '/picture/s12.jpg',
-    '/picture/s9.jpg',
-    '/picture/s8.jpg',
+    '/picture/5.jpg',
+    '/picture/1.jpg',
+    '/picture/2.jpg',
+    '/picture/7.jpg',
+    '/picture/9.jpg',
+   
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -30,8 +31,8 @@ const ImageSlider = () => {
         <Image
           src={images[currentIndex]}
           alt="slider"
-          width={800}
-          height={800}
+          width={400}
+          height={400}
           className="slider-image"
         />
         <button className="arrow next" onClick={nextSlide}>

@@ -6,7 +6,7 @@ const Contact = () => {
       <div className="contact-container">
         <h1 className="contact-title">Get in Touch</h1>
         <p className="contact-description">
-  Wed love to hear from you! Please fill out the form below and our team will get back to you as soon as possible.
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi veniam nulla officiis harum, dolore eligendi
 </p>
 
         <form className="contact-form">

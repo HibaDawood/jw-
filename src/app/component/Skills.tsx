@@ -3,17 +3,21 @@ import '/src/app/globals.css'; // Import your global CSS for styling
 
 export default function Skills() {
   return (
-    <div className="skills-page">
+    <div id='products' className="skills-page">
     
-      <h1 className="skills-title">Advanced Design & Development</h1>
-      <p className="skills-description">Utilizing the latest web technologies to create sleek, intuitive, and user-friendly interfaces that enhance your browsing experience</p>
+      <h1 className="skills-title">Differents Flavours</h1>
+      <p className="skills-description">Jack Wrestler energy drinks are known for their bold, high-energy formulas 
+        designed to boost alertness and endurance. They come in a variety of flavors, often with a strong, tangy 
+        taste profile, B vitamins, and amino acids for quick energy.</p>
 
       <div className="skills-container">
 
 
         <div className="skill-card">
-          <h3 className="skill-name"> Lexus LC </h3>
-          <p className="skill-detail">Experience a refined interior with premium materials, ergonomic seating, and a whisper-quiet cabin for ultimate relaxation.</p>
+          <h3 className="skill-name">Berry Vitamins</h3>
+          <p className="skill-detail">
+          Jack Wrestlers Berry Vitamin flavor packs a burst of mixed berry goodness with essential vitamins 
+          for an energizing lift.</p>
         </div>
 
 
@@ -23,8 +27,9 @@ export default function Skills() {
 
 
         <div className="skill-card">
-          <h3 className="skill-name">Klassan Luxury</h3>
-          <p className="skill-detail">Equipped with state-of-the-art engines and seamless acceleration to deliver an exhilarating driving experience.</p>
+          <h3 className="skill-name">Mojito</h3>
+          <p className="skill-detail">Jack Wrestlers Mojito flavor delivers a refreshing mint and lime twist, 
+            perfect for a crisp energy boost.</p>
         </div>
 
 
@@ -39,8 +44,10 @@ export default function Skills() {
 
 
         <div className="skill-card">
-          <h3 className="skill-name">Forbes</h3>
-          <p className="skill-detail">Cutting-edge infotainment systems, smart connectivity features, and advanced driver assistance to elevate your journey.</p>
+          <h3 className="skill-name">Blue Berry</h3>
+          <p className="skill-detail">
+          Jack Wrestlers Blueberry flavor offers a rich, juicy taste of ripe blueberries, 
+          combined with an energy-boosting formula. </p>
         </div>
 
 
@@ -50,8 +57,9 @@ export default function Skills() {
 
 
         <div className="skill-card">
-          <h3 className="skill-name">Volvo XC40</h3>
-          <p className="skill-detail"> Striking exteriors with sleek lines, iconic craftsmanship, and a bold presence that turns heads on every road.</p>
+          <h3 className="skill-name">Vitamin C</h3>
+          <p className="skill-detail">
+          Jack Wrestler's Vitamin C flavor offers a zesty, citrus punch packed with immune-supporting vitamin C. </p>
         </div>
 
       </div>

@@ -17,7 +17,7 @@ const Footer = () => {
           <h3 className="footer-title">Quick Links</h3>
           <ul className="footer-links">
             <li><a href="/cars">drinks</a></li>
-            <li><a href="/services">Services</a></li>
+            <li><a href="/services">Flavours</a></li>
             <li><a href="/contact">Contact Us</a></li>
             <li><a href="/about">About</a></li>
           </ul>
@@ -25,14 +25,14 @@ const Footer = () => {
 
         <div className="footer-section">
           <h3 className="footer-title">Contact Us</h3>
-          <p>123 JW Drinks</p>
+          <p>Jack Wrestler</p>
           <p>Email: info@JW-website.com</p>
-          <p>Phone: +1 (555) 123-4567</p>
+          <p>Phone: +86 (652) 123-4567</p>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; CarWebsite. All Rights Reserved.</p>
+        <p>&copy; JW-Website. All Rights Reserved.</p>
       </div>
     </footer>
   );

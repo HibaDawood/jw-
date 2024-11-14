@@ -10,11 +10,11 @@ const Header = () => {
     {/* Logo Element */}
     <div className="logo">
         <Image 
-        src={"/picture/s11.jpg"} 
+        src={"/picture/lg.jpg"}
         alt="Logo"
-        width={100}
-        height={100}
-         className="logo-image w-2 h-3" />
+        width={300}
+        height={300}
+        className="logo-image " />
       </div>
 
 
@@ -22,7 +22,7 @@ const Header = () => {
       <li className='li-styling'><Link href={"/"} >Home</Link></li>
       <li className='li-styling'><Link href={"/about"}>About</Link></li>
       <li className='li-styling'><Link href={"/contact"}>Contact</Link></li>
-      <li className='li-styling'><Link href={"#skills"} >Skills</Link></li>
+      <li className='li-styling'><Link href={"/Products"} >products</Link></li>
     </ul>
     </nav>
     </div>
