@@ -59,7 +59,7 @@ export default function Skills() {
         <div className="skill-card">
           <h3 className="skill-name">Vitamin C</h3>
           <p className="skill-detail">
-          Jack Wrestler's Vitamin C flavor offers a zesty, citrus punch packed with immune-supporting vitamin C. </p>
+          Jack Wrestlers Vitamin C flavor offers a zesty, citrus punch packed with immune-supporting vitamin C. </p>
         </div>
 
       </div>
